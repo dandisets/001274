@@ -14,9 +14,9 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 23609898505
-  numberOfFiles: 222
-  numberOfSubjects: 19
+  numberOfBytes: 25018923207
+  numberOfFiles: 232
+  numberOfSubjects: 20
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
@@ -57,6 +57,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-12-04T17:21:53.484014+00:00'
+datePublished: '2025-07-01T16:22:30.955089+00:00'
 description: This experimental series aimed to visualize and characterize plasma membrane
   (PM) polarization dynamics in hippocampal neurons exposed to 2 kHz sine waves or
   2 kHz sine waves modulated at 100 Hz or 154 Hz. Neurons were pre-loaded with FluoVolt
@@ -65,19 +66,35 @@ description: This experimental series aimed to visualize and characterize plasma
 ethicsApproval: []
 id: DANDI:001274/draft
 identifier: DANDI:001274
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001274/versions/draft/assets/
 name: Characterization of Plasma Membrane Polarization in Hippocampal Neurons During
   Sine Wave and Modulated Sine Wave Stimulation
-protocol: []
-relatedResource: []
+publishedBy:
+  endDate: '2025-07-01T16:22:30.955089+00:00'
+  id: urn:uuid:c5ca9917-5ebb-4cd6-861e-6baa0bf827a8
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-07-01T16:22:30.955089+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:be71effb-546f-4fb4-b547-cf6603775d50
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
+relatedResource:
+- identifier: doi.org/10.1016/j.xcrp.2025.102660
+  name: Excitation and polarization of isolated neurons by high-frequency sine waves
+    for temporal interference stimulation
+  relation: dcite:IsPublishedIn
+  resourceType: dcite:JournalArticle
+  schemaKey: Resource
+  url: https://doi.org/10.1016/j.xcrp.2025.102660
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001274/draft
 version: draft
 wasGeneratedBy:
