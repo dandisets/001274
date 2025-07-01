@@ -25,8 +25,8 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Kim, Vitalii; Semenov, Iurii ; Pakhomov, Andrei (2025)
   Characterization of Plasma Membrane Polarization in Hippocampal Neurons During Sine
-  Wave and Modulated Sine Wave Stimulation (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001274/draft
+  Wave and Modulated Sine Wave Stimulation (Version 0.250701.1622) [Data set]. DANDI
+  Archive. https://doi.org/10.48324/dandi.001274/0.250701.1622
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -63,13 +63,14 @@ description: This experimental series aimed to visualize and characterize plasma
   2 kHz sine waves modulated at 100 Hz or 154 Hz. Neurons were pre-loaded with FluoVolt
   potentiometric dye to enable visualization of membrane polarization changes. This
   study was partially supported by the NIH Brain Initiative (NEI R21EY034803).
+doi: 10.48324/dandi.001274/0.250701.1622
 ethicsApproval: []
-id: DANDI:001274/draft
+id: DANDI:001274/0.250701.1622
 identifier: DANDI:001274
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001274/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001274/0.250701.1622/assets.yaml
 name: Characterization of Plasma Membrane Polarization in Hippocampal Neurons During
   Sine Wave and Modulated Sine Wave Stimulation
 publishedBy:
@@ -95,8 +96,8 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-url: https://dandiarchive.org/dandiset/001274/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001274/0.250701.1622
+version: 0.250701.1622
 wasGeneratedBy:
 - identifier: 5R21EY034803
   name: Next Gen Temporal Interference Stimulation Non-Invasive Neuromodulation
